@@ -1,5 +1,5 @@
 # Microsoft-Excel-Projects
-- This repository contains a projets that i worked on as part of my Data Analytics Course.
+- This repository contains projets that I worked on as part of my Data Analytics Course.
 
 ## Aim
 - To demostrate Microsoft Excel Skills used in data analysis projects
